@@ -1,0 +1,24 @@
+{
+  "name": "gesfarma",
+  "version": "1.0.0",
+  "description": "Gestion de farmacia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maickfp/gesfarma.git"
+  },
+  "keywords": [
+    "gestion",
+    "farmacia",
+    "admin"
+  ],
+  "author": "Michael Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maickfp/gesfarma/issues"
+  },
+  "homepage": "https://github.com/maickfp/gesfarma#readme"
+}
